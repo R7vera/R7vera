@@ -1,4 +1,6 @@
-| Welcome | Phrase --> "If you can dream it, you can program it" 
+| Welcome | 
+
+Phrase --> "If you can dream it, you can program it" 
 ______________________________________________
 + 👋 Hi, I'm @R7vera                             
 + 👀 I'm interested in artificial intelligence   

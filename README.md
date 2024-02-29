@@ -5,7 +5,7 @@
 </p>
 
 
-<p align="center" display="flex" justify-content="center" >
+<p align="center" style="display: flex; justify-content: center;>
     <img src="https://skillicons.dev/icons?i=js,html,css,git,java,js,nodejs,react,anaconda,py,astro,c,cs,cpp,laravel,matlab,mongodb,mysql,nestjs,nextjs,npm,php,postgres,react,sqlite&perline=14" />
 </p>
 

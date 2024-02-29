@@ -9,7 +9,7 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,git,java,js,nodejs,react,anaconda,py,astro,c,cs,cpp,laravel,matlab,mongodb,mysql,nestjs,nextjs,npm,php,postgres,react,sqlite&perline=14" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r7vera&layout=compact&theme=dark&bg_color=BF0A19" alt="Abdo Achhoubi Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r7vera&layout=compact&theme=dark&bg_color=F2EDEB" alt="Lenguajes Top Utilizados"/>
 
 <!---
 bootstrap,c,cpp,css,docker,dynamodb,express,firebase,github,html,java,js,linux,md,mongodb,mysql,nextjs,nodejs,postman,py,react,vscode

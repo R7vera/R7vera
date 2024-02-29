@@ -9,6 +9,8 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,git,java,js,nodejs,react,anaconda,py,astro,c,cs,cpp,laravel,matlab,mongodb,mysql,nestjs,nextjs,npm,php,postgres,react,sqlite&perline=14" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoachhoubi&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
+
 <!---
 bootstrap,c,cpp,css,docker,dynamodb,express,firebase,github,html,java,js,linux,md,mongodb,mysql,nextjs,nodejs,postman,py,react,vscode
 R7vera/R7vera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

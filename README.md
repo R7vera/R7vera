@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">¡Hola Mundo! 🌍 </h1>
 <p align="center">
-  <img style="boder-radius: 20px" src="https://github.com/R7vera/R7vera/blob/main/Profile/star.jpeg" alt="R7vera" width="400" height="400">
+  <img src="https://github.com/R7vera/R7vera/blob/main/Profile/star.jpeg" alt="R7vera" width="400" height="400" style="border: 4px solid #000000; border-radius: 20px;">>
 </p>
 
 <!---

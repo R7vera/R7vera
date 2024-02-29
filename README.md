@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">¡Hola Mundo! 🌍 </h1>
 <p align="center">
-  <img src="https://github.com/R7vera/R7vera/blob/main/Profile/star.jpeg" alt="R7vera" width="400" height="400">
+  <img src="https://github.com/R7vera/R7vera/blob/main/Profile/EhD-SNoXgAEp8iL.jpeg" alt="R7vera" width="400" height="400">
 </p>
 
 <!---

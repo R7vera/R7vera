@@ -8,7 +8,7 @@
     alt="r7vera" /> 
 </p>
 
-
+<p align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css,git,java,js,nodejs,react,anaconda,py,astro,c,cs,cpp,laravel,matlab,mongodb,mysql,nestjs,nextjs,npm,php,postgres,react,sqlite&perline=14" />
 </p>
 

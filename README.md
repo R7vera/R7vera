@@ -8,8 +8,7 @@
     alt="r7vera" /> 
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&pause=1000&color=BF0A19&random=false&width=435&lines=%C2%A1Hola+Mundo!;No+hay+lugar+como+127.0.0.1;Programar+es+lo+m%C3%A1s+cercano+que+tenemos+a+la+magia)](https://git.io/typing-svg)
-<p align="center">
+
     <img src="https://skillicons.dev/icons?i=js,html,css,git,java,js,nodejs,react,anaconda,py,astro,c,cs,cpp,laravel,matlab,mongodb,mysql,nestjs,nextjs,npm,php,postgres,react,sqlite&perline=14" />
 </p>
 

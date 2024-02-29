@@ -3,6 +3,10 @@
 <p align="center">
   <img src="https://github.com/R7vera/R7vera/blob/main/Profile/EhD-SNoXgAEp8iL.jpeg" alt="R7vera" width="400" height="400">
 </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=r7vera&label=Profile%20views&color=0e75b6&style=flat"
+    alt="r7vera" /> 
+</p>
 
 
 <p align="center">

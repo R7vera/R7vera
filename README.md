@@ -2,8 +2,18 @@
 <div align="center">
   <img src="https://github.com/R7vera/R7vera/blob/main/Profile/BackGroundOne.webp" alt="Fondo Principal"/>
 </div>
-<h1 align="center">¡Hola Mundo! 🌍 </h1>
+<h1 align="center">¡Hola Soy, @R7vera! 😎 </h1>
 
+```js
+import SoftwareDeveloper from 'Josafat Rivera';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Jota R7vera';
+  title    = 'Software Engineer';
+  company  = 'Pipoca Digital | Remote';
+  location = 'Peru, PE';
+}
+```
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css,git,java,js,nodejs,react,anaconda,py,astro,c,cs,cpp,laravel,matlab,mongodb,mysql,nestjs,nextjs,npm,php,postgres,react,sqlite&perline=14" />

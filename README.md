@@ -5,7 +5,7 @@
 <h1 align="center">¡Hola Soy, @R7vera! 😎 </h1>
 
 ```js
-import Software from 'Josafat Rivera';
+import Software from 'Jota Rivera';
 
 class Bio extends Software {
   name     = 'Jota R7vera';

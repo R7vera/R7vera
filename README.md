@@ -10,7 +10,7 @@ import Software from 'Jota Rivera';
 class Bio extends Software {
   name     = 'Jota R7vera';
   title    = 'Loading...;
-  company  = 'Pipoca Digital | Remote';
+  company  = 'Ready | Remote';
   location = 'Peru, PE';
 }
 ```

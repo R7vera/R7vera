@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://github.com/R7vera/R7vera/blob/main/Profile/BackGround.webp" alt="Fondo Principal"/>
+  <img src="https://github.com/R7vera/R7vera/blob/main/Profile/BackGroundOne.webp" alt="Fondo Principal"/>
 </div>
 <h1 align="center">¡Hola Mundo! 🌍 </h1>
 <p align="center">

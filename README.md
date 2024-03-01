@@ -5,11 +5,11 @@
 <h1 align="center">¡Hola Soy, @R7vera! 😎 </h1>
 
 ```js
-import SoftwareDeveloper from 'Josafat Rivera';
+import Software from 'Josafat Rivera';
 
-class Bio extends SoftwareDeveloper {
+class Bio extends Software {
   name     = 'Jota R7vera';
-  title    = 'Software Engineer';
+  title    = 'Loading...;
   company  = 'Pipoca Digital | Remote';
   location = 'Peru, PE';
 }

@@ -13,6 +13,19 @@ class Bio extends Software {
   company  = 'Ready | Remote';
   location = 'Peru, PE';
 }
+
+class Skills extends SoftwareDeveloper {
+  languages  = ["JavaScript", "PHP", "Python", "Java", "TypeScript", "C'."C#", "C++"];
+  databases  = ["MySQL", "MongoDB", "PostgreSQL", "SQLite", "Firebase", "Oracle", "Microsoft SQL Server", "Redis", "Cassandra"];
+  frameworks = ["React", "React Native", "Vue.js", "Node.js", "Express.js", "TensorFlow", "PyTorch", "Astro"];
+  mobile = [ "Android", "Flutter", "Firebase" ];
+  editors = [ "VSCode", "ViM", "Emacs" ];
+  mathematicsAndStatistics = [ "R", "Stata", "SPSS", "MATLAB", "Mathematica", "NumPy" ];
+  iot = [ "Arduino", "Raspberry Pi"];
+  devOps = [ "Git"];
+  cloudOps = [ "AWS", "Azure", "Oracle Cloud" ];
+}
+
 ```
 
 <p align="center">
